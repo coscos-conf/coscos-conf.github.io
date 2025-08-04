@@ -3,7 +3,7 @@ layout: page
 title: organisers
 permalink: /organisers/
 description: 
-nav: false
+nav: true
 nav_order:
 ---
 
