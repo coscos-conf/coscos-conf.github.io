@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-coscos",
+    title: "coscos",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -58,19 +58,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
+        },{id: "dropdown-2025",
+              title: "2025",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
+                window.location.href = "/2025/";
               },
             },{id: "post-a-post-with-plotly-js",
         
