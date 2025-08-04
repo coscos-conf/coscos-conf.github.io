@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: coscos
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Cognitive Science Conference of Students
 
 profile:
   align: right
