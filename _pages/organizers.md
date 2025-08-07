@@ -11,8 +11,7 @@ nav_order:
 <div class="row justify-content-left">
     <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
-            <img src="/assets/img/organisers/hannah_schuett.png" class="card-img-top" alt="Hannah Schütt">
-          </a>
+            <img src="/assets/img/organisers/hannah_schuett.jpeg" class="card-img-top" alt="Hannah Schütt">
             <div class="card-body">
               <h5 class="card-title">Hannah Schütt</h5>
               <h6 class="card-subtitle mb-2 text-muted"></h6>
@@ -32,7 +31,7 @@ nav_order:
     </div>
     <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/organisers/alsou_bellmann.jpg" class="card-img-top" alt="Alsou Bellmann">
+          <img src="/assets/img/organisers/alsou_bellmann.jpeg" class="card-img-top" alt="Alsou Bellmann">
             <div class="card-body">
               <h5 class="card-title">Alsou Bellmann</h5>
                 <h6 class="card-subtitle mb-2 text-muted"></h6>
