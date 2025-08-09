@@ -37,8 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/venue/";
           },
-        },{id: "dropdown-2025",
-              title: "2025",
+        },{id: "dropdown-coscos-2025",
+              title: "coscos 2025",
               description: "",
               section: "Dropdown",
               handler: () => {
