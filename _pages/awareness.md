@@ -11,9 +11,9 @@ Die CoSCoS soll für alle Teilnehmenden ein sicherer, respektvoller und diskrimi
 
 Alle Teilnehmenden tragen Mitverantwortung für eine Atmosphäre, in der sich alle wohlfühlen können.
 
-Keine Toleranz für diskriminierendes Verhalten: Kein Platz für Sexismus, Rassismus, Ableismus, Queerfeindlichkeit, Transphobie, Ausländerfeindlichkeit, Antisemitismus, Klassismus, oder jegliche andere Art von Diskriminierung
-Konsens ist key. Nur ein Ja ist ein Ja: „Vielleicht“ ist kein ja und Schweigen ist ebenfalls kein ja.
-Respekt: Wir begegnen uns mit Respekt und achten auf persönliche Grenzen, auch wenn wir sie nicht verstehen können
+Keine Toleranz für diskriminierendes Verhalten: Kein Platz für Sexismus, Rassismus, Ableismus, Queerfeindlichkeit, Transphobie, Ausländerfeindlichkeit, Antisemitismus, Klassismus, oder jegliche andere Art von Diskriminierung.  
+Konsens ist key. Nur ein Ja ist ein Ja: „Vielleicht“ ist kein ja und Schweigen ist ebenfalls kein ja.  
+Respekt: Wir begegnen uns mit Respekt und achten auf persönliche Grenzen, auch wenn wir sie nicht verstehen können  
 Achtsamkeit: Gebt aufeinander Acht und schaut nicht weg
 
 <!-- 
