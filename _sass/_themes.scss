@@ -93,7 +93,7 @@ html[data-theme="dark"] {
   --global-footer-link-color: #{$grey-color};
   --global-distill-app-color: #{$grey-color-light};
   --global-divider-color: #424246;
-  --global-card-bg-color: #073563;
+  --global-card-bg-color:  #{$bg-color-dark};
   --global-card-border-color: #e8e8e86e;
   --global-back-to-top-bg-color: rgba(
     #{color.channel($white-color, "red", $space: rgb)},
