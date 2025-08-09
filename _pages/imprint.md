@@ -2,7 +2,6 @@
 layout: page
 permalink: /imprint/
 title: imprint
-description: legal notice
 ---
 
 [Fachschaft Kognitionswissenschaft](https://www.fs-kogni.uni-tuebingen.de/)  
