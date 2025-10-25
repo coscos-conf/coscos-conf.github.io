@@ -27,8 +27,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
+
+Was ist die coscos?
+
+Coscos steht für „Cognitive Science conference of students“, und genau das ist sie auch: eine Konferenz für euch — alle, die in Deutschland Kognitionswissenschaft / Cognitive Science studieren. Organisiert wird sie von uns, dem Orga-Team, das aus Student*innen von verschiedenen Standorten besteht. Wichtig ist uns, dass die coscos wirklich für alle ist. Das heißt: egal ob ihr euch im ersten Bachelorsemester, vierten Mastersemester oder schon im PhD befindet — ihr werdet euch auf der coscos wohlfühlen. Im Gegensatz zu anderen Konferenzen liegt unser Fokus nämlich auf der Vernetzung, sodass der bisherige Wissensstand weniger entscheidend ist. Aber keine Sorge, mit Vorträgen, Workshops und Diskussionen wird auch Inhaltliches nicht zu kurz kommen. 
+
+Habt ihr Lust darauf euer Wissen zu erweitern, erste Konferenzerfahrungen zu sammeln und coole Leute aus anderen Unis kennenzulernen? Dann freuen wir uns darauf, euch 2026 für die 2. coscos in Tübingen begrüßen zu dürfen!
