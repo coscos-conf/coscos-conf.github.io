@@ -39,4 +39,34 @@ nav_order:
             </div>
         </div>
     </div>
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/winnie_klenz.jpg" class="card-img-top" alt="Winnie Klenz">
+            <div class="card-body">
+              <h5 class="card-title">Winnie Klenz</h5>
+                <h6 class="card-subtitle mb-2 text-muted"></h6>
+                    <p class="card-text"></p>
+            </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/yarik_moeller.jpg" class="card-img-top" alt="Yarik Moeller">
+            <div class="card-body">
+              <h5 class="card-title">Yarik Moeller</h5>
+                <h6 class="card-subtitle mb-2 text-muted"></h6>
+                    <p class="card-text"></p>
+            </div>
+        </div>
+    </div>
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/placeholder.png" class="card-img-top" alt="mathis/rova">
+            <div class="card-body">
+              <h5 class="card-title">mathis/rova</h5>
+                <h6 class="card-subtitle mb-2 text-muted"></h6>
+                    <p class="card-text"></p>
+            </div>
+        </div>
+    </div>
 </div>
