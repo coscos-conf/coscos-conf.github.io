@@ -61,9 +61,9 @@ nav_order:
     </div>
     <div class="col-auto mb-3">
         <div class="card h-100" style="width: 14rem;">
-          <img src="/assets/img/organisers/placeholder.png" class="card-img-top" alt="mathis/rova">
+          <img src="/assets/img/organisers/mathis_rova_jagar_wolker.jpeg" class="card-img-top" alt="mathis/rova jagar-wölker">
             <div class="card-body">
-              <h5 class="card-title">mathis/rova</h5>
+              <h5 class="card-title">mathis/rova jagar-wölker</h5>
                 <h6 class="card-subtitle mb-2 text-muted"></h6>
                     <p class="card-text"></p>
             </div>
