@@ -69,4 +69,14 @@ nav_order:
             </div>
         </div>
     </div>
+    <div class="col-auto mb-3">
+        <div class="card h-100" style="width: 14rem;">
+          <img src="/assets/img/organisers/vira_frejlak.jpg" class="card-img-top" alt="Virzhiniia (Vira) Frejlak">
+            <div class="card-body">
+              <h5 class="card-title">Virzhiniia (Vira) Frejlak</h5>
+                <h6 class="card-subtitle mb-2 text-muted"></h6>
+                    <p class="card-text"></p>
+            </div>
+        </div>
+    </div>
 </div>
