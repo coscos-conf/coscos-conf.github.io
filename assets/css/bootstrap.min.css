@@ -11528,7 +11528,7 @@ a.text-dark:hover {
 }
 
 .schedule-participants {
-    background-color: #fb3 !important
+    background-color: #e39803 !important
 }
 
 .schedule-workshop {
@@ -11545,6 +11545,14 @@ a.text-dark:hover {
 
 .schedule-break {
     background-color: #91949c !important
+}
+
+.schedule-food {
+    background-color: #840063 !important
+}
+
+.schedule-discussion {
+    background-color: #00799e !important
 }
 
 /*# sourceMappingURL=bootstrap.min.css.map */

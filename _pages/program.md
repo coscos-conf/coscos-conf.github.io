@@ -52,13 +52,13 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
         <td> 13:00 – 14:00 </td>
         <td> &nbsp; </td>
         <td markdown="span" rowspan="4" class="schedule-workshop"> **Studentische Workshops**</td>
-        <td markdown="span" class="schedule-participants"> **Mittagessen**</td>
+        <td markdown="span" class="schedule-break"> **Mittagessen**</td>
         <td> &nbsp; </td>
     </tr>
     <tr>
         <td> 14:00 – 15:00 </td>
         <td> &nbsp; </td> 
-        <td markdown="span" rowspan="2" class="schedule-talk"> **Hackathon** </td>
+        <td markdown="span" rowspan="2" class="schedule-hackathon"> **Hackathon** </td>
         <td> &nbsp; </td> 
     </tr>
     <tr>
@@ -69,7 +69,7 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
     <tr>
         <td> 16:00 – 17:00 </td>
         <td> &nbsp; </td>
-        <td markdown="span" rowspan="2" class="schedule-talk"> **Podiumsdiskussion** </td>
+        <td markdown="span" rowspan="2" class="schedule-discussion"> **Podiumsdiskussion** </td>
         <td> &nbsp; </td>
     </tr>
     <tr>
@@ -104,8 +104,7 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
      <tr>
         <td> 22:00 –  </td>
         <td> &nbsp; </td>
-        <td> &nbsp; </td>
-        <td markdown="span" class="schedule-evening"> **Party** </td>
+        <td markdown="span" class="schedule-evening"> **Vernetzungsfeier** </td>
         <td> &nbsp; </td>
     </tr>
   </tbody>
@@ -125,6 +124,7 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
         <td class="schedule-discussion">Podiumsdiskussion</td>
         <td class="schedule-evening">Abendprogramm</td>
         <td class="schedule-break">Pause und Socializing</td>
+        <td class="schedule-food">Essen</td>
     </tr>
   </tbody>
 </table>
