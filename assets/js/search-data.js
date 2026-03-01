@@ -3,21 +3,21 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "About",
+    id: "nav-start",
+    title: "Start",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-awareness",
-          title: "awareness",
+          title: "Awareness",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/awareness/";
           },
-        },{id: "nav-organisers",
-          title: "organisers",
+        },{id: "nav-team",
+          title: "Team",
           description: "",
           section: "Navigation",
           handler: () => {
