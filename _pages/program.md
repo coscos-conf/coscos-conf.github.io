@@ -16,10 +16,10 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
   <thead>
     <tr>
       <th scope="col"></th>
-      <th scope="col">Donnerstag (14.5.2026)</th>
-      <th scope="col">Freitag (15.5.2026)</th>
-      <th scope="col">Samstag (16.5.2026)</th>
-      <th scope="col">Sonntag (17.5.2026)</th>
+      <th scope="col">Donnerstag (14.05.)</th>
+      <th scope="col">Freitag (15.05.)</th>
+      <th scope="col">Samstag (16.05.)</th>
+      <th scope="col">Sonntag (17.05.)</th>
     </tr>
   </thead>
   <tbody>
