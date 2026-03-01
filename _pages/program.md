@@ -45,14 +45,14 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
     <tr>
         <td> 12:00 – 13:00 </td>
         <td> &nbsp; </td>
-        <td markdown="span" class="schedule-break"> **Mittagessen** </td>
+        <td markdown="span" class="schedule-food"> **Mittagessen** </td>
         <td markdown="span" class="schedule-participants"> **Verabschiedung** </td>
     </tr>
     <tr>
         <td> 13:00 – 14:00 </td>
         <td> &nbsp; </td>
         <td markdown="span" rowspan="4" class="schedule-workshop"> **Studentische Workshops**</td>
-        <td markdown="span" class="schedule-break"> **Mittagessen**</td>
+        <td markdown="span" class="schedule-food"> **Mittagessen**</td>
         <td> &nbsp; </td>
     </tr>
     <tr>
@@ -75,19 +75,19 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
     <tr>
         <td> 17:00 – 18:00 </td>
         <td markdown="span" class="schedule-participants"> **Begrüßung** </td>
-        <td markdown="span" rowspan="2" class="schedule-break"> **Abendessen** </td>
+        <td markdown="span" rowspan="2" class="schedule-food"> **Abendessen** </td>
         <td> &nbsp; </td>
     </tr>
     <tr>
         <td> 18:00 – 19:00 </td>
-        <td markdown="span" rowspan="2" class="schedule-break"> **Abendessen**</td>
+        <td markdown="span" rowspan="2" class="schedule-food"> **Abendessen**</td>
         <td markdown="span" class="schedule-break"> **Pause / Hack-Zeit**</td>
         <td> &nbsp; </td>
     </tr>
     <tr>
         <td> 19:00 – 20:00 </td>
         <td markdown="span" rowspan="2" class="schedule-evening">**Stadtführung / Abendessen**</td>
-        <td markdown="span" rowspan="2" class="schedule-break">**Abendessen**</td>
+        <td markdown="span" rowspan="2" class="schedule-food">**Abendessen**</td>
         <td> &nbsp; </td>
     </tr>
      <tr>
@@ -121,6 +121,8 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
         <td class="schedule-participants">Organisatorisches</td>
         <td  class="schedule-workshop">Workshops</td>
         <td class="schedule-hackathon">Hackathon</td>
+    </tr>
+    <tr>
         <td class="schedule-discussion">Podiumsdiskussion</td>
         <td class="schedule-evening">Abendprogramm</td>
         <td class="schedule-break">Pause und Socializing</td>
