@@ -7,5 +7,5 @@ nav: true
 nav_order: 2
 ---
 
-The coscos 2026 will take place at the University of Tübingen, Germany.
-Further details will be announced soon.
+Die coscos 2026 wird an der Universität Tübingen stattfinden.
+Weitere Details folgen in Kürze.
