@@ -25,22 +25,16 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
   <tbody>
     <tr>
         <td> 9:00 – 10:00 </td>
-        <td> &nbsp; </td>
         <td markdown="span" class="schedule-participants"> **Kennenlernen**</td>
         <td markdown="span" rowspan="2" class="schedule-talk"> **Talk**</td>
-        <td> &nbsp; </td>
     </tr>
     <tr>
         <td> 10:00 – 11:00 </td>
-        <td> &nbsp; </td>
         <td markdown="span" rowspan="2" class="schedule-talk"> **Talk** </td>
-        <td> &nbsp; </td>
         <td markdown="span" class="schedule-hackathon"> **Hackathon** </td>
     </tr>
     <tr>
         <td> 11:00 – 12:00 </td>
-        <td> &nbsp; </td>
-        <td> &nbsp; </td>
         <td markdown="span" rowspan="2" class="schedule-workshop"> **Jobmesse**</td>
         <td markdown="span" class="schedule-hackathon"> **Hackathon-Ergebnisse**</td>
     </tr>
