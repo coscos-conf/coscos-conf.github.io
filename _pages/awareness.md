@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /awareness/
-title: awareness
+title: Awareness
 description:
 nav: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: organisers
+title: Team
 permalink: /organisers/
 description: 
 nav: true

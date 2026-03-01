@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Start
 description: Startseite
 permalink: /
 subtitle: Cognitive Science Conference of Students

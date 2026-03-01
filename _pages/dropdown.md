@@ -1,6 +1,6 @@
 ---
 layout: page
-title: past iterations
+title: Vergangenes
 nav: true
 nav_order: 8
 dropdown: true
