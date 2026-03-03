@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/organisers/";
           },
-        },{id: "nav-2026",
-          title: "2026",
-          description: "Anmeldung für 2026",
+        },{id: "nav-anmeldung-für-coscos-2026",
+          title: "Anmeldung für coscos 2026",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/2026/";
