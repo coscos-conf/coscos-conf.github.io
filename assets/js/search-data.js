@@ -23,19 +23,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/organisers/";
           },
-        },{id: "nav-programm",
-          title: "Programm",
-          description: "Hier findest du eine Übersicht über unser Programm",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/program/";
-          },
         },{id: "nav-2026",
           title: "2026",
           description: "Anmeldung für 2026",
           section: "Navigation",
           handler: () => {
             window.location.href = "/2026/";
+          },
+        },{id: "nav-programm",
+          title: "Programm",
+          description: "Hier findest du eine Übersicht über unser Programm",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/program/";
           },
         },{id: "dropdown-coscos-2025",
               title: "coscos 2025",
