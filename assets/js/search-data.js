@@ -30,12 +30,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/program/";
           },
-        },{id: "nav-venue",
-          title: "Venue",
-          description: "",
+        },{id: "nav-2026",
+          title: "2026",
+          description: "Anmeldung für 2026",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/venue/";
+            window.location.href = "/2026/";
           },
         },{id: "dropdown-coscos-2025",
               title: "coscos 2025",
