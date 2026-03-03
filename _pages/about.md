@@ -37,6 +37,8 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 ## Meldet euch jetzt für die coscos 2026 in Tübingen an!
 [Hier gehts zur Anmeldung](2026)
 
+
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/general/participants-2025.jpg" title="Die Teilnehmenden von 2025" class="img-fluid rounded z-depth-1" zoomable=true %}
