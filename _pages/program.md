@@ -75,7 +75,7 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
     <tr>
         <td> 17:00 – 18:00 </td>
         <td markdown="span" class="schedule-participants"> **Begrüßung** </td>
-        <td markdown="span" rowspan="2" class="schedule-food"> **Abendessen** </td>
+        <td markdown="span" rowspan="4" class="schedule-food"> **Stadtführung / Abendessen** </td>
         <td> &nbsp; </td>
     </tr>
     <tr>
@@ -86,7 +86,6 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
     </tr>
     <tr>
         <td> 19:00 – 20:00 </td>
-        <td markdown="span" rowspan="2" class="schedule-evening">**Stadtführung / Abendessen**</td>
         <td markdown="span" rowspan="2" class="schedule-food">**Abendessen**</td>
         <td> &nbsp; </td>
     </tr>
