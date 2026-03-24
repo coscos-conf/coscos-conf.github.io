@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/program/";
           },
+        },{id: "nav-veranstaltungsort",
+          title: "Veranstaltungsort",
+          description: "Hier findest du Infos zu den Räumlichkeiten",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/venue/";
+          },
         },{id: "dropdown-coscos-2025",
               title: "coscos 2025",
               description: "",
