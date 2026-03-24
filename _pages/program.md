@@ -11,7 +11,17 @@ Die coscos 2026 wird an der Universität Tübingen stattfinden.
 Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch auch Vorträge, Workshops und Diskussionen sind Teil des Programs. 
 
 
+# Confirmed Speaker
+## Talks
+- Dr. Verena Seibold ([Uni Tübingen](https://uni-tuebingen.de/))
 
+## Podiumsdiskussion 
+- Prof. Dr. Esther Kühn ([Hertie Institut für klinische Hirnforschung](https://www.hih-tuebingen.de/))
+- Prof. Dr. Evelyn Ferstl ([Uni Freiburg](https://uni-freiburg.de/))
+- Prof. Dr. Sven Mayer ([TU Dortmund](https://www.tu-dortmund.de/))
+
+
+# Ablauf
 <table class="table table-bordered">
   <thead>
     <tr>
