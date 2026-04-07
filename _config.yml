@@ -213,7 +213,7 @@ plugins:
   - jekyll-terser
   - jekyll-toc
   - jekyll-twitter-plugin
-  - jekyll-seo-tag
+  # - jekyll-seo-tag
   - jemoji
 
 # Sitemap settings
