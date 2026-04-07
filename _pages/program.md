@@ -14,6 +14,7 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
 ## Confirmed Speaker
 ### Talks
 - Dr. Verena Seibold ([Uni Tübingen](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/psychologie/arbeitsbereiche/evolutionaere-kognition-kognitionswissenschaft/arbeitsbereich/mitarbeiterinnen/drrernat-verena-seibold/))
+- Dr. Marius Klug ([BTU - Brandenburgische Technische Universität](https://www.b-tu.de/fg-neuroadaptive-hci/team/wissenschaftlerinnen))
 
 ### Podiumsdiskussion 
 - Prof. Dr. Esther Kühn ([Hertie Institut für klinische Hirnforschung](https://www.hih-tuebingen.de/en/research/independent-research-groups/kuehn-lab))
