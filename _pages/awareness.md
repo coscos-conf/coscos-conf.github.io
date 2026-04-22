@@ -7,7 +7,7 @@ nav: true
 ---
 Unsere Grundsätze
 
-Die CoSCoS soll für alle Teilnehmenden ein sicherer, respektvoller und diskriminierungsfreier Raum sein. Dieser Awareness-Kodex dient dazu, ein achtsames Miteinander zu fördern, persönliche Grenzen zu respektieren und grenzüberschreitendes Verhalten zu verhindern.
+Die coscos soll für alle Teilnehmenden ein sicherer, respektvoller und diskriminierungsfreier Raum sein. Dieser Awareness-Kodex dient dazu, ein achtsames Miteinander zu fördern, persönliche Grenzen zu respektieren und grenzüberschreitendes Verhalten zu verhindern.
 
 Alle Teilnehmenden tragen Mitverantwortung für eine Atmosphäre, in der sich alle wohlfühlen können.
 
