@@ -44,157 +44,144 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
    <tbody>
     <!-- 9:00 -->
     <tr>
-      <td class="time-col">9:00–9:30</td>
+      <td class="time-col" rowspan="2">9:00–10:00</td>
       <td class="empty"></td>
       <td class="schedule-participants" rowspan="2">Kennenlernen</td>
       <td class="schedule-talk" rowspan="4">Talk</td>
       <td class="empty"></td>
     </tr>
     <tr>
-      <td class="time-col">9:30–10:00</td>
       <td class="empty"></td>
       <td class="empty"></td>
     </tr>
     <!-- 10:00 -->
     <tr>
-      <td class="time-col">10:00–10:30</td>
+      <td class="time-col" rowspan="2">10:00–11:00</td>
       <td class="empty"></td>
       <td class="schedule-talk" rowspan="4">Talk</td>
       <td class="schedule-hackathon" rowspan="2">Hackathon</td>
     </tr>
     <tr>
-      <td class="time-col">10:30–11:00</td>
       <td class="empty"></td>
     </tr>
     <!-- 11:00 -->
     <tr>
-      <td class="time-col">11:00–11:30</td>
+      <td class="time-col" rowspan="2">11:00–12:00</td>
       <td class="empty"></td>
       <td class="schedule-workshop" rowspan="5">Berufsperspektiven</td>
       <td class="schedule-hackathon" rowspan="2">Hackathon-Ergebnisse</td>
     </tr>
     <tr>
-      <td class="time-col">11:30–12:00</td>
       <td class="empty"></td>
     </tr>
     <!-- 12:00 -->
     <tr>
-      <td class="time-col">12:00–12:30</td>
+      <td class="time-col" rowspan="2">12:00–13:00</td>
       <td class="empty"></td>
       <td class="schedule-food" rowspan="2">Mittagessen</td>
       <td class="schedule-participants" rowspan="2">Verabschiedung</td>
     </tr>
     <tr>
-      <td class="time-col">12:30–13:00</td>
       <td class="empty"></td>
     </tr>
     <!-- 13:00 -->
     <tr>
-      <td class="time-col">13:00–13:30</td>
+      <td class="time-col" rowspan="2">13:00–14:00</td>
       <td class="empty"></td>
       <td class="schedule-workshop" rowspan="8">Studentische Workshops</td>
       <td class="empty"></td>
     </tr>
     <tr>
-      <td class="time-col">13:30–14:00</td>
       <td class="empty"></td>
       <td class="schedule-food" rowspan="2">Mittagessen</td>
       <td class="empty"></td>
     </tr>
     <!-- 14:00 -->
     <tr>
-      <td class="time-col">14:00–14:30</td>
+      <td class="time-col" rowspan="2">14:00–15:00</td>
       <td class="empty"></td>
       <td class="empty"></td>
     </tr>
     <tr>
-      <td class="time-col">14:30–15:00</td>
       <td class="empty"></td>
       <td class="schedule-hackathon" rowspan="3">Hackathon</td>
       <td class="empty"></td>
     </tr>
     <!-- 15:00 -->
     <tr>
-      <td class="time-col">15:00–15:30</td>
+      <td class="time-col" rowspan="2">15:00–16:00</td>
       <td class="empty"></td>
       <td class="empty"></td>
     </tr>
     <tr>
-      <td class="time-col">15:30–16:00</td>
       <td class="empty"></td>
       <td class="empty"></td>
     </tr>
     <!-- 16:00 -->
     <tr>
-      <td class="time-col">16:00–16:30</td>
+      <td class="time-col" rowspan="2">16:00–17:00</td>
       <td class="empty"></td>
       <td class="schedule-discussion" rowspan="4">Podiumsdiskussion</td>
       <td class="empty"></td>
     </tr>
     <tr>
-      <td class="time-col">16:30–17:00</td>
       <td class="empty"></td>
       <td class="empty"></td>
     </tr>
     <!-- 17:00 -->
     <tr>
-      <td class="time-col">17:00–17:30</td>
+      <td class="time-col" rowspan="2">17:00–18:00</td>
       <td class="schedule-participants" rowspan="2">Begrüßung</td>
       <td class="schedule-evening" rowspan="8">Stadtführung / Abendessen</td>
       <td class="empty"></td>
     </tr>
     <tr>
-      <td class="time-col">17:30–18:00</td>
       <td class="empty"></td>
     </tr>
     <!-- 18:00 -->
     <tr>
-      <td class="time-col">18:00–18:30</td>
+      <td class="time-col" rowspan="2">18:00–19:00</td>
       <td class="schedule-food" rowspan="4">Abendessen</td>
       <td class="schedule-hackathon" rowspan="2">Hackathon</td>
       <td class="empty"></td>
     </tr>
     <tr>
-      <td class="time-col">18:30–19:00</td>
       <td class="empty"></td>
     </tr>
     <!-- 19:00 -->
     <tr>
-      <td class="time-col">19:00–19:30</td>
+      <td class="time-col" rowspan="2">19:00–20:00</td>
       <td class="schedule-break" rowspan="1">Pause</td>
       <td class="empty"></td>
     </tr>
     <tr>
-      <td class="time-col">19:30–20:00</td>
       <td class="schedule-food" rowspan="3">Abendessen</td>
       <td class="empty"></td>
     </tr>
     <!-- 20:00 -->
     <tr>
-      <td class="time-col">20:00–20:30</td>
+      <td class="time-col" rowspan="2">20:00–21:00</td>
       <td class="schedule-evening" rowspan="6">Spieleabend</td>
       <td class="empty"></td>
     </tr>
     <tr>
-      <td class="time-col">20:30–21:00</td>
       <td class="empty"></td>
     </tr>
     <!-- 21:00 -->
     <tr>
-      <td class="time-col">21:00–21:30</td>
+      <td class="time-col" rowspan="2">21:00–22:00</td>
       <td class="empty"></td>
       <td class="empty"></td>
       <td class="empty"></td>
     </tr>
     <tr>
-      <td class="time-col">21:30–22:00</td>
       <td class="empty"></td>
       <td class="empty"></td>
       <td class="empty"></td>
     </tr>
     <!-- 22:00 -->
     <tr>
-      <td class="time-col">22:00–</td>
+      <td class="time-col" rowspan="2">22:00–</td>
       <td class="empty"></td>
       <td class="schedule-evening" rowspan="2">Vernetzungsfeier</td>
       <td class="empty"></td>
