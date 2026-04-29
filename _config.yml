@@ -15,8 +15,8 @@ footer_text: >
 # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: coscos, conference, cognitive science, student conference, kognitionswissenschaft, konferenz, tübingen, darmstadt, osnabrück, 2025, 2026 # add your own keywords or leave empty
 lang: de # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🧠 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-
+icon: favicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+  
 url: https://coscos-conf.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
