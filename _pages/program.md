@@ -21,6 +21,14 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
 - Prof. Dr. Evelyn Ferstl ([Uni Freiburg](https://uni-freiburg.de/cognition/evelyn-ferstl/))
 - Prof. Dr. Sven Mayer ([TU Dortmund](https://haii.cs.tu-dortmund.de/team/sven-mayer/))
 
+### Berufsperspektiven
+- Niklas Dillen, Chief Quereinsteiger für berufliche Selbstverwirklichung bei Cognikey (im Aufbau)
+- Anna Riegelmann, M. Sc., Data Scientistin bei KfW
+- Dr. Vildan Salikutluk, Anforderungsmanagement im Bereich User Experience bei der Deutschen Flugsicherung
+- Marie Sindermann, Projektkoordination Digitalisierung Hochschulverwaltung
+- Sophie Jentzsch, M. Sc., Wissenschaftliche Mitarbeiterin in der Gruppe Intelligente Software Systeme beim DLR Institut für Softwaretechnologie
+- Pia Schröter, Junior Product Owner bei Medice
+
 
 ## Ablauf
 <table class="table table-bordered">
@@ -33,89 +41,163 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
       <th scope="col">Sonntag (17.05.)</th>
     </tr>
   </thead>
-  <tbody>
+   <tbody>
+    <!-- 9:00 -->
     <tr>
-        <td> 9:00 – 10:00 </td>
-        <td> &nbsp; </td>
-        <td markdown="span" class="schedule-participants"> **Kennenlernen**</td>
-        <td markdown="span" rowspan="2" class="schedule-talk"> **Talk**</td>
-        <td> &nbsp; </td>
-    </tr>
-    <tr>
-        <td> 10:00 – 11:00 </td>
-        <td> &nbsp; </td>
-        <td markdown="span" rowspan="2" class="schedule-talk"> **Talk** </td>
-        <td markdown="span" class="schedule-hackathon"> **Hackathon** </td>
+      <td class="time-col">9:00–9:30</td>
+      <td class="empty"></td>
+      <td class="schedule-participants" rowspan="2">Kennenlernen</td>
+      <td class="schedule-talk" rowspan="4">Talk</td>
+      <td class="empty"></td>
     </tr>
     <tr>
-        <td> 11:00 – 12:00 </td>
-        <td> &nbsp; </td>
-        <td markdown="span" rowspan="2" class="schedule-workshop"> **Jobmesse**</td>
-        <td markdown="span" class="schedule-hackathon"> **Hackathon-Ergebnisse**</td>
+      <td class="time-col">9:30–10:00</td>
+      <td class="empty"></td>
+      <td class="empty"></td>
+    </tr>
+    <!-- 10:00 -->
+    <tr>
+      <td class="time-col">10:00–10:30</td>
+      <td class="empty"></td>
+      <td class="schedule-talk" rowspan="4">Talk</td>
+      <td class="schedule-hackathon" rowspan="2">Hackathon</td>
     </tr>
     <tr>
-        <td> 12:00 – 13:00 </td>
-        <td> &nbsp; </td>
-        <td markdown="span" class="schedule-food"> **Mittagessen** </td>
-        <td markdown="span" class="schedule-participants"> **Verabschiedung** </td>
+      <td class="time-col">10:30–11:00</td>
+      <td class="empty"></td>
+    </tr>
+    <!-- 11:00 -->
+    <tr>
+      <td class="time-col">11:00–11:30</td>
+      <td class="empty"></td>
+      <td class="schedule-workshop" rowspan="5">Berufsperspektiven</td>
+      <td class="schedule-hackathon" rowspan="2">Hackathon-Ergebnisse</td>
     </tr>
     <tr>
-        <td> 13:00 – 14:00 </td>
-        <td> &nbsp; </td>
-        <td markdown="span" rowspan="4" class="schedule-workshop"> **Studentische Workshops**</td>
-        <td markdown="span" class="schedule-food"> **Mittagessen**</td>
-        <td> &nbsp; </td>
+      <td class="time-col">11:30–12:00</td>
+      <td class="empty"></td>
+    </tr>
+    <!-- 12:00 -->
+    <tr>
+      <td class="time-col">12:00–12:30</td>
+      <td class="empty"></td>
+      <td class="schedule-food" rowspan="2">Mittagessen</td>
+      <td class="schedule-participants" rowspan="2">Verabschiedung</td>
     </tr>
     <tr>
-        <td> 14:00 – 15:00 </td>
-        <td> &nbsp; </td> 
-        <td markdown="span" rowspan="2" class="schedule-hackathon"> **Hackathon** </td>
-        <td> &nbsp; </td> 
+      <td class="time-col">12:30–13:00</td>
+      <td class="empty"></td>
+    </tr>
+    <!-- 13:00 -->
+    <tr>
+      <td class="time-col">13:00–13:30</td>
+      <td class="empty"></td>
+      <td class="schedule-workshop" rowspan="8">Studentische Workshops</td>
+      <td class="empty"></td>
     </tr>
     <tr>
-        <td> 15:00 – 16:00 </td>
-        <td> &nbsp; </td>
-        <td> &nbsp; </td>
+      <td class="time-col">13:30–14:00</td>
+      <td class="empty"></td>
+      <td class="schedule-food" rowspan="2">Mittagessen</td>
+      <td class="empty"></td>
+    </tr>
+    <!-- 14:00 -->
+    <tr>
+      <td class="time-col">14:00–14:30</td>
+      <td class="empty"></td>
+      <td class="empty"></td>
     </tr>
     <tr>
-        <td> 16:00 – 17:00 </td>
-        <td> &nbsp; </td>
-        <td markdown="span" rowspan="2" class="schedule-discussion"> **Podiumsdiskussion** </td>
-        <td> &nbsp; </td>
+      <td class="time-col">14:30–15:00</td>
+      <td class="empty"></td>
+      <td class="schedule-hackathon" rowspan="3">Hackathon</td>
+      <td class="empty"></td>
+    </tr>
+    <!-- 15:00 -->
+    <tr>
+      <td class="time-col">15:00–15:30</td>
+      <td class="empty"></td>
+      <td class="empty"></td>
     </tr>
     <tr>
-        <td> 17:00 – 18:00 </td>
-        <td markdown="span" class="schedule-participants"> **Begrüßung** </td>
-        <td markdown="span" rowspan="4" class="schedule-evening"> **Stadtführung / Abendessen** </td>
-        <td> &nbsp; </td>
+      <td class="time-col">15:30–16:00</td>
+      <td class="empty"></td>
+      <td class="empty"></td>
+    </tr>
+    <!-- 16:00 -->
+    <tr>
+      <td class="time-col">16:00–16:30</td>
+      <td class="empty"></td>
+      <td class="schedule-discussion" rowspan="4">Podiumsdiskussion</td>
+      <td class="empty"></td>
     </tr>
     <tr>
-        <td> 18:00 – 19:00 </td>
-        <td markdown="span" rowspan="2" class="schedule-food"> **Abendessen**</td>
-        <td markdown="span" class="schedule-break"> **Pause / Hack-Zeit**</td>
-        <td> &nbsp; </td>
+      <td class="time-col">16:30–17:00</td>
+      <td class="empty"></td>
+      <td class="empty"></td>
+    </tr>
+    <!-- 17:00 -->
+    <tr>
+      <td class="time-col">17:00–17:30</td>
+      <td class="schedule-participants" rowspan="2">Begrüßung</td>
+      <td class="schedule-evening" rowspan="8">Stadtführung / Abendessen</td>
+      <td class="empty"></td>
     </tr>
     <tr>
-        <td> 19:00 – 20:00 </td>
-        <td markdown="span" rowspan="2" class="schedule-food">**Abendessen**</td>
-        <td> &nbsp; </td>
+      <td class="time-col">17:30–18:00</td>
+      <td class="empty"></td>
     </tr>
-     <tr>
-        <td> 20:00 – 21:00 </td>
-        <td markdown="span" rowspan="3" class="schedule-evening">**Spieleabend**</td>
-        <td> &nbsp; </td>
+    <!-- 18:00 -->
+    <tr>
+      <td class="time-col">18:00–18:30</td>
+      <td class="schedule-food" rowspan="4">Abendessen</td>
+      <td class="schedule-hackathon" rowspan="2">Hackathon</td>
+      <td class="empty"></td>
     </tr>
-     <tr>
-        <td> 21:00 – 22:00 </td>
-        <td> &nbsp; </td>
-        <td> &nbsp; </td>
-        <td> &nbsp; </td>
+    <tr>
+      <td class="time-col">18:30–19:00</td>
+      <td class="empty"></td>
     </tr>
-     <tr>
-        <td> 22:00 –  </td>
-        <td> &nbsp; </td>
-        <td markdown="span" class="schedule-evening"> **Vernetzungsfeier** </td>
-        <td> &nbsp; </td>
+    <!-- 19:00 -->
+    <tr>
+      <td class="time-col">19:00–19:30</td>
+      <td class="schedule-break" rowspan="1">Pause</td>
+      <td class="empty"></td>
+    </tr>
+    <tr>
+      <td class="time-col">19:30–20:00</td>
+      <td class="schedule-food" rowspan="3">Abendessen</td>
+      <td class="empty"></td>
+    </tr>
+    <!-- 20:00 -->
+    <tr>
+      <td class="time-col">20:00–20:30</td>
+      <td class="schedule-evening" rowspan="6">Spieleabend</td>
+      <td class="empty"></td>
+    </tr>
+    <tr>
+      <td class="time-col">20:30–21:00</td>
+      <td class="empty"></td>
+    </tr>
+    <!-- 21:00 -->
+    <tr>
+      <td class="time-col">21:00–21:30</td>
+      <td class="empty"></td>
+      <td class="empty"></td>
+      <td class="empty"></td>
+    </tr>
+    <tr>
+      <td class="time-col">21:30–22:00</td>
+      <td class="empty"></td>
+      <td class="empty"></td>
+      <td class="empty"></td>
+    </tr>
+    <!-- 22:00 -->
+    <tr>
+      <td class="time-col">22:00–</td>
+      <td class="empty"></td>
+      <td class="schedule-evening" rowspan="2">Vernetzungsfeier</td>
+      <td class="empty"></td>
     </tr>
   </tbody>
 </table>
