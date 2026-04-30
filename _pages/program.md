@@ -23,12 +23,12 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
 - Prof. Dr. Volker Franz ([Universität Tübingen](https://www.ecogsci.cs.uni-tuebingen.de/team/volker-franz/))
 
 ### Berufsperspektiven
-- Niklas Dillen, Chief Quereinsteiger für berufliche Selbstverwirklichung bei Cognikey (im Aufbau)
-- Anna Riegelmann, M. Sc., Data Scientistin bei KfW
-- Dr. Vildan Salikutluk, Anforderungsmanagement im Bereich User Experience bei der Deutschen Flugsicherung
-- Marie Sindermann, Projektkoordination Digitalisierung Hochschulverwaltung
-- Sophie Jentzsch, M. Sc., Wissenschaftliche Mitarbeiterin in der Gruppe Intelligente Software Systeme beim DLR Institut für Softwaretechnologie
-- Pia Schröter, Junior Product Owner bei Medice
+- Niklas Dillen (Chief Quereinsteiger für berufliche Selbstverwirklichung bei Cognikey (im Aufbau))
+- Anna Riegelmann (M. Sc., Data Scientistin bei [KfW](https://www.kfw.de/))
+- Dr. Vildan Salikutluk (Anforderungsmanagement im Bereich User Experience bei der [Deutschen Flugsicherung](https://www.dfs.de))
+- Marie Sindermann (Projektkoordination Digitalisierung Hochschulverwaltung)
+- Sophie Jentzsch (M. Sc., Wissenschaftliche Mitarbeiterin in der Gruppe Intelligente Software Systeme beim [DLR Institut für Softwaretechnologie](https://www.dlr.de/de/sc))
+- Pia Schröter (Junior Product Owner bei [Medice](https://medice-health-family.com))
 
 
 ## Ablauf
