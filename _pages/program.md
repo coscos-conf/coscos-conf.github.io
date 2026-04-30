@@ -24,10 +24,10 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
 
 ### Berufsperspektiven
 - Niklas Dillen (Chief Quereinsteiger für berufliche Selbstverwirklichung bei Cognikey (im Aufbau))
-- Anna Riegelmann (M. Sc., Data Scientistin bei [KfW](https://www.kfw.de/))
+- Anna Riegelmann, M. Sc. (Data Scientistin bei [KfW](https://www.kfw.de/))
 - Dr. Vildan Salikutluk (Anforderungsmanagement im Bereich User Experience bei der [Deutschen Flugsicherung](https://www.dfs.de))
 - Marie Sindermann (Projektkoordination Digitalisierung Hochschulverwaltung)
-- Sophie Jentzsch (M. Sc., Wissenschaftliche Mitarbeiterin in der Gruppe Intelligente Software Systeme beim [DLR Institut für Softwaretechnologie](https://www.dlr.de/de/sc))
+- Sophie Jentzsch, M. Sc. (Wissenschaftliche Mitarbeiterin in der Gruppe Intelligente Software Systeme beim [DLR Institut für Softwaretechnologie](https://www.dlr.de/de/sc))
 - Pia Schröter (Junior Product Owner bei [Medice](https://medice-health-family.com))
 
 
