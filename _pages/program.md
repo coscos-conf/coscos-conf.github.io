@@ -20,6 +20,7 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
 - Prof. Dr. Esther Kühn ([Hertie Institut für klinische Hirnforschung](https://www.hih-tuebingen.de/en/research/independent-research-groups/kuehn-lab))
 - Prof. Dr. Evelyn Ferstl ([Uni Freiburg](https://uni-freiburg.de/cognition/evelyn-ferstl/))
 - Prof. Dr. Sven Mayer ([TU Dortmund](https://haii.cs.tu-dortmund.de/team/sven-mayer/))
+- Prof. Dr. Volker Franz ([Universität Tübingen](https://www.ecogsci.cs.uni-tuebingen.de/team/volker-franz/))
 
 ### Berufsperspektiven
 - Niklas Dillen, Chief Quereinsteiger für berufliche Selbstverwirklichung bei Cognikey (im Aufbau)
