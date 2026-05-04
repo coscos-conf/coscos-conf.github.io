@@ -182,7 +182,6 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
     <!-- 22:00 -->
     <tr>
       <td class="time-col" rowspan="2">22:00–</td>
-      <td class="empty"></td>
       <td class="schedule-evening" rowspan="2">Vernetzungsfeier</td>
       <td class="empty"></td>
     </tr>
