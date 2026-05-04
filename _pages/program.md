@@ -133,10 +133,11 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
     <tr>
       <td class="time-col" rowspan="2">17:00–18:00</td>
       <td class="schedule-participants" rowspan="2">Begrüßung</td>
-      <td class="schedule-evening" rowspan="8">Stadtführung / Abendessen</td>
+      <td class="schedule-evening" rowspan="1">Vorstellung Hackathon-Projekte</td>
       <td class="empty"></td>
     </tr>
     <tr>
+      <td class="schedule-evening" rowspan="10">Stadtralley & Abendessen</td>
       <td class="empty"></td>
     </tr>
     <!-- 18:00 -->
