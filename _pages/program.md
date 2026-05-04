@@ -174,10 +174,8 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
       <td class="time-col" rowspan="2">21:00–22:00</td>
       <td class="empty"></td>
       <td class="empty"></td>
-      <td class="empty"></td>
     </tr>
     <tr>
-      <td class="empty"></td>
       <td class="empty"></td>
       <td class="empty"></td>
     </tr>
