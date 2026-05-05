@@ -28,7 +28,7 @@ NOTFALLNUMMER: Während der Konferenz stellen wir euch eine Telefonnummer zur Ve
 
 ANSPRECHPERSONEN: Ganz egal ob ihr euch unwohl fühlt, eine Panikattacke habt, überfordert seid oder einfach eine Frage habt, das Wohlfühl-Team ist für euch da. Ihr erkennt uns an den pinken Bandanas.
 
-Ihr könnt auch das Orga-Team (weiße Bandanas) oder die Fachschaft ansprechen, sie werden euch weiterhelfen.
+Ihr könnt auch das Orga-Team (extra Namensschild) oder die Fachschaft ansprechen, sie werden euch weiterhelfen.
 
 Wenn ihr euch nicht sicher fühlt, kann euch das Wohlfühl-Team an einen sicheren Ort führen. Sprecht uns einfach an, wir sind für euch da 🙂
 Anlaufstellen und sonstiges
