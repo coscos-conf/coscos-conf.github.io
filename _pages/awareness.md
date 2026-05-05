@@ -16,7 +16,7 @@ Konsens ist key. Nur ein Ja ist ein Ja: „Vielleicht“ ist kein ja und Schweig
 Respekt: Wir begegnen uns mit Respekt und achten auf persönliche Grenzen, auch wenn wir sie nicht verstehen können  
 Achtsamkeit: Gebt aufeinander Acht und schaut nicht weg
 
-<!-- 
+
 Verhalten, das diese Richtlinien verletzt, hat Konsequenzen und kann zum Ausschluss von der Veranstaltung führen.
 
 
@@ -59,4 +59,4 @@ Heimwegtelefon: Telefonischer Begleitdienst für Menschen, die sich auf dem Heim
 030 12074182
 
 Artikel „Grenzen setzen & einhalten“: Tipps und Strategien für gesunde persönliche Grenzen:
-https://www.studysmarter.de/magazine/grenzen-setzen-einhalten/  -->
+https://www.studysmarter.de/magazine/grenzen-setzen-einhalten/  
