@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nametags – Print Sheet</title>
+
+<style>
+  :root {
+    --tag-w: 75mm;
+    --tag-h: 40mm;
+    --pad:   3mm;
+    --c-bg:      #ffffff;
+    --c-border:  #c8c8c8;
+    --c-name:    #000000;
+    --c-topic:   #000000;
+    --c-subtle:  #555;
+    --c-stripe:  #000000;
+    --c-stripe2: #e8eff7;
+    --fs-pronouns:   10pt;
+    --fs-university: 10pt;
+    --fs-topic:      10pt;
+    --fs-name:       20pt;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Verdana', sans-serif;
+    background: #e0e4ea;
+    padding: 20px;
+  }
+
+  .ui-bar {
+    max-width: 700px;
+    margin: 0 auto 28px;
+    background: #fff;
+    border-radius: 10px;
+    padding: 20px 24px;
+    box-shadow: 0 2px 12px rgba(0,0,0,.10);
+  }
+  .ui-bar h1 {
+    /* font-family: 'DM Serif Display', serif; */
+    color: #1a3a5c;
+    font-size: 22px;
+    margin-bottom: 4px;
+  }
+  .ui-bar p {
+    color: #666;
+    font-size: 12.5px;
+    margin-bottom: 16px;
+  }
+  .ui-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+  }
+
+  label.file-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 13px;
+    padding: 7px 16px;
+    border-radius: 6px;
+    border: 1.5px solid #1a3a5c;
+    background: #fff;
+    color: #1a3a5c;
+    cursor: pointer;
+    transition: background 0.15s;
+    /* font-family: 'DM Sans', sans-serif; */
+  }
+  label.file-btn:hover { background: #e8eff7; }
+  label.file-btn input { display: none; }
+
+  button {
+    /* font-family: 'DM Sans', sans-serif; */
+    font-size: 13px;
+    padding: 7px 18px;
+    border-radius: 6px;
+    border: 1.5px solid #1a3a5c;
+    cursor: pointer;
+    transition: all 0.15s;
+  }
+  .btn-print { background: #1a3a5c; color: #fff; }
+  .btn-print:hover { background: #0f2540; }
+
+  .status {
+    font-size: 12px;
+    color: #888;
+    margin-top: 10px;
+    min-height: 16px;
+  }
+  .status.ok  { color: #2a7a4f; }
+  .status.err { color: #c0392b; }
+
+  /* ── A4 page ── */
+  .page {
+    width: 210mm;
+    min-height: 297mm;
+    background: #fff;
+    margin: 0 auto 28px;
+    padding: 10mm;
+    box-shadow: 0 4px 24px rgba(0,0,0,.15);
+    display: flex;
+    flex-wrap: wrap;
+    /* gap: 5mm; */
+    align-content: flex-start;
+  }
+
+  /* ── Nametag ── */
+  .tag {
+    width:  var(--tag-w);
+    height: var(--tag-h);
+    background: var(--c-bg);
+    border: 0.3mm solid var(--c-border);
+    /* border-radius: 1.5mm; */
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    position: relative;
+  }
+  /* .tag::before {
+    content: '';
+    position: absolute;
+    left: 0; top: 0; bottom: 0;
+    width: 1.8mm;
+    background: var(--c-stripe);
+  } */
+  .tag-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--pad) var(--pad) 0 calc(var(--pad) + 1.8mm);
+    flex-shrink: 0;
+  }
+  .logo-zone {
+    width: 11mm;
+    height: 11mm;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .logo-zone img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+  .logo-placeholder {
+    width: 16mm;
+    height: 8mm;
+    border: 0.3mm dashed #bbb;
+    border-radius: 0.8mm;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 4pt;
+    color: #aaa;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .pronouns {
+    font-size: var(--fs-pronouns);
+    color: var(--c-subtle);
+    font-weight: 300;
+    letter-spacing: 0.04em;
+    font-style: italic;
+    text-align: right;
+  }
+  .tag-name {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 calc(var(--pad) + 1.8mm);
+  }
+  .tag-name span {
+    /* font-family: 'DM Serif Display', serif; */
+    font-size: var(--fs-name);
+    color: var(--c-name);
+    text-align: center;
+    line-height: 1.1;
+  }
+  .tag-university {
+    text-align: center;
+    padding: 0 calc(var(--pad) + 1.8mm);
+    font-size: var(--fs-university);
+    color: var(--c-subtle);
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    flex-shrink: 0;
+  }
+  .tag-topic {
+    /* background: var(--c-stripe2); */
+    padding: 1.2mm calc(var(--pad) + 1.8mm);
+    font-size: var(--fs-topic);
+    font-weight: 500;
+    border-top: 1px solid black;
+    color: var(--c-topic);
+    text-align: center;
+    letter-spacing: 0.01em;
+    line-height: 1.2;
+    flex-shrink: 0;
+  }
+  @page {
+    size: A4 portrait;
+    margin: 10mm;
+  }
+
+  /* ── Print ── */
+  @media print {
+    body {
+      background: none;
+      padding: 10mm;
+      margin: 0;
+    }
+    .ui-bar { display: none !important; }
+    .page {
+      box-shadow: none;
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      min-height: auto;
+      page-break-after: always;
+    }
+    .tag {
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+      border: 0.2mm solid #bbb;
+    }
+  }
+</style>
+</head>
+<body>
+
+<div class="ui-bar">
+  <h1>Nametag Print Sheet</h1>
+  <div class="ui-row">
+    <label class="file-btn">
+      Load DataFile
+      <input type="file" id="dataInput" accept=".csv">
+    </label>
+    <button class="btn-print" onclick="window.print()">Print</button>
+  </div>
+  <div>Please select a file containing the following columns:
+    <p>center_opt1, center_opt2, top_right, top_center, bottom_center</p></div>
+  <div class="status" id="status"></div>
+</div>
+
+<div id="pages"></div>
+
+<script>
+/* ══════════════════════════════════════════════════════════
+   BUILT-IN DATA
+   Edit this array directly, or load a JSON file via the
+   button above. The JSON file must be an array of objects
+   with keys: name, pronouns, university, topic
+══════════════════════════════════════════════════════════ */
+
+const TAGS_PER_PAGE = 12;
+
+let currentLogo = "logo.png";
+let currentData;
+
+
+/* ── CSV parser (handles quoted fields with commas/newlines) ── */
+function parseCSV(text) {
+  const rows = [];
+  let col = 0, row = [], cur = '', inQ = false;
+
+  for (let i = 0; i < text.length; i++) {
+    const ch = text[i], next = text[i + 1];
+
+    if (inQ) {
+      if (ch === '"' && next === '"') { cur += '"'; i++; }        // escaped quote
+      else if (ch === '"')             { inQ = false; }            // end quote
+      else                             { cur += ch; }
+    } else {
+      if      (ch === '"')  { inQ = true; }
+      else if (ch === ',')  { row.push(cur.trim()); cur = ''; }
+      else if (ch === '\n' || (ch === '\r' && next === '\n')) {
+        if (ch === '\r') i++;
+        row.push(cur.trim()); cur = '';
+        if (row.some(Boolean)) rows.push(row);                    // skip blank lines
+        row = [];
+      } else { cur += ch; }
+    }
+  }
+  // last field/row
+  row.push(cur.trim());
+  if (row.some(Boolean)) rows.push(row);
+
+  if (rows.length < 2) throw new Error('CSV must have a header row and at least one data row');
+
+  // Map header names (case-insensitive, trimmed) to column indices
+  const headers = rows[0]
+
+  function findCol(key) {
+    const idx = headers.indexOf(key);
+    if (idx === -1) throw new Error('CSV is missing a "' + key + '" column. Found: ' + rows[0].join(', '));
+    return idx;
+  }
+
+  const ci = {
+    center_opt1:       findCol('center_opt2'),
+    center_opt2:       findCol('center_opt1'),
+    top_right:         findCol('top_right'),
+    top_center:        findCol('top_center'),
+    bottom_center:     findCol('bottom_center')
+  };
+
+  return rows.slice(1).map(function(r) {
+    return {
+      center_opt1:  r[ci.center_opt1]  || '',
+      center_opt2:       r[ci.center_opt2]       || '',
+      top_right:   r[ci.top_right]   || '',
+      top_center: r[ci.top_center] || '',
+      bottom_center:      r[ci.bottom_center]      || ''
+    };
+  });
+}
+
+/* ── Unified file loader (JSON + CSV) with smart encoding ── */
+document.getElementById('dataInput').addEventListener('change', function(e) {
+  const file = e.target.files[0];
+  if (!file) return;
+  const isCSV = file.name.toLowerCase().endsWith('.csv');
+
+  function process(text) {
+    try {
+      let data;
+      if (isCSV) {
+        data = parseCSV(text);
+      } else {
+        data = JSON.parse(text);
+        if (!Array.isArray(data)) throw new Error('JSON must be an array of objects');
+      }
+      if (data.length === 0) throw new Error('No attendees found in file');
+      currentData = data;
+      setStatus('✓ Loaded ' + data.length + ' attendees from "' + file.name + '"', 'ok');
+      buildPages();
+    } catch(err) {
+      setStatus('✗ ' + err.message, 'err');
+    }
+  }
+
+  // Try UTF-8 first; if result contains replacement char (garbled Umlaute from
+  // Windows-1252 / Latin-1 Excel exports), re-read with the correct encoding.
+  const r1 = new FileReader();
+  r1.onload = function(ev) {
+    const text = ev.target.result;
+    if (text.indexOf('\uFFFD') !== -1 && isCSV) {
+      // Garbled — retry as Windows-1252 (covers ä ö ü ß etc. from Excel)
+      const r2 = new FileReader();
+      r2.onload = function(ev2) { process(ev2.target.result); };
+      r2.readAsText(file, 'windows-1252');
+    } else {
+      process(text);
+    }
+  };
+  r1.readAsText(file, 'UTF-8');
+  buildPages()
+});
+
+
+
+/* ── Load logo via file picker ── */
+document.getElementById('logoInput').addEventListener('change', function(e) {
+  const file = e.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = function(ev) {
+    currentLogo = ev.target.result;
+    setStatus('✓ Logo loaded: "' + file.name + '"', 'ok');
+    buildPages();
+  };
+  reader.readAsDataURL(file);
+});
+
+/* ── Build one tag ── */
+function buildTag(person) {
+  console.log(person)
+  const tag = document.createElement('div');
+  tag.className = 'tag';
+
+  const logoHTML = currentLogo
+    ? '<div class="logo-zone"><img src="' + currentLogo + '" alt="Logo"></div>'
+    : '<div class="logo-placeholder">Logo</div>';
+
+  tag.innerHTML =
+    '<div class="tag-header">' +
+      logoHTML +
+      '<div class="tag-university">' + esc(person.top_center || '') + '</div>' +
+      '<div class="pronouns">' + esc(person.top_right || '') + '</div>' +
+    '</div>'
+
+    if (person.name){
+      tag.innerHTML += '<div class="tag-name"><span>' + esc(person.center_opt1 || '') + '</span></div>';
+    }
+    else{
+      tag.innerHTML += '<div class="tag-name"><span>' + esc(person.center_opt1.split(" ")[0]) + '</span></div>';
+    }
+    if (person.bottom_center){
+      tag.innerHTML += '<div class="tag-topic">' + esc(person.bottom_center || '') + '</div>';
+    }
+
+  return tag;
+}
+
+/* ── Paginate ── */
+function buildPages() {
+  const container = document.getElementById('pages');
+  container.innerHTML = '';
+  for (let i = 0; i < currentData.length; i += TAGS_PER_PAGE) {
+    const slice = currentData.slice(i, i + TAGS_PER_PAGE);
+    const page  = document.createElement('div');
+    page.className = 'page';
+    slice.forEach(function(p) { page.appendChild(buildTag(p)); });
+    container.appendChild(page);
+  }
+}
+
+function setStatus(msg, type) {
+  var el = document.getElementById('status');
+  el.textContent = msg;
+  el.className = 'status ' + (type || '');
+}
+
+function esc(str) {
+  return String(str)
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+</script>
+</body>
+</html>
