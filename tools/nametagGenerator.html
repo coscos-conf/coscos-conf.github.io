@@ -303,8 +303,8 @@ function parseCSV(text) {
   }
 
   const ci = {
-    center_opt1:       findCol('center_opt2'),
-    center_opt2:       findCol('center_opt1'),
+    center_opt1:       findCol('center_opt1'),
+    center_opt2:       findCol('center_opt2'),
     top_right:         findCol('top_right'),
     top_center:        findCol('top_center'),
     bottom_center:     findCol('bottom_center')
@@ -395,11 +395,11 @@ function buildTag(person) {
       '<div class="pronouns">' + esc(person.top_right || '') + '</div>' +
     '</div>'
 
-    if (person.name){
+    if (person.center_opt1){
       tag.innerHTML += '<div class="tag-name"><span>' + esc(person.center_opt1 || '') + '</span></div>';
     }
     else{
-      tag.innerHTML += '<div class="tag-name"><span>' + esc(person.center_opt1.split(" ")[0]) + '</span></div>';
+      tag.innerHTML += '<div class="tag-name"><span>' + esc(person.center_opt2.split(" ")[0]) + '</span></div>';
     }
     if (person.bottom_center){
       tag.innerHTML += '<div class="tag-topic">' + esc(person.bottom_center || '') + '</div>';
