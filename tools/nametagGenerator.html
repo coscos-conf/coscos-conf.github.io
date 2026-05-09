@@ -129,11 +129,12 @@
     background: var(--c-stripe);
   } */
   .tag-header {
-    display: flex;
-    align-items: center;
     justify-content: space-between;
     padding: var(--pad) var(--pad) 0 calc(var(--pad) + 1.8mm);
     flex-shrink: 0;
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
   }
   .logo-zone {
     width: 11mm;
