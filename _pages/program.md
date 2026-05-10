@@ -31,6 +31,52 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
 - Pia Schröter (Junior Product Owner bei [Medice](https://medice-health-family.com))
 
 
+
+## Workshops
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Titel</th>
+      <th scope="col">Name</th>
+      <th scope="col">Raum</th>
+      <th scope="col">Beschreibung</th>
+    </tr>
+  </thead>
+   <tbody>
+    <tr>
+      <td>Breakdance</td>
+      <td>Jan</td>
+      <td></td>
+      <td>Für alle, keine Vorkenntnisse nötig. Gelernt werden paar leichte Tricks.</td>
+    </tr>
+    <tr>
+      <td>Attention Economy: Autonomie in der digitalen Welt</td>
+      <td>Tobi</td>
+      <td></td>
+      <td>Wir leben in einer Aufmerksamkeitsökonomie, in der digitale Schnittstellen gezielt kognitive Schwachstellen ausnutzen, um uns an Bildschirme zu binden. Dieser Workshop beleuchtet die Mechanismen hinter der „gestohlenen Aufmerksamkeit“ und analysiert, wie diese unsere mentale Gesundheit und soziale Bindungen beeinflussen. Statt auf reinen Verzicht setzen wir auf „menschenzentrierte Gestaltung“ und praktische Tools, um vom passiven Konsumenten zum souveränen Gestalter der eigenen digitalen Umgebung zu werden. Der Workshop bietet eine interdisziplinäre Perspektive für alle, die Technologie nutzen wollen, ohne von Algorithmen untergraben zu werden.</td>
+    </tr>
+    <tr>
+      <td>Wissen verständlich kommunizieren: Warum Interdisziplinarität eine Kogni-Stärke ist</td>
+      <td>Line & Meike</td>
+      <td></td>
+      <td>Was kann man als Kogni eigentlich: Alles nur ein bisschen, aber nichts richtig? Die Interdisziplinarität unseres Studiums muss kein Nachteil sein. Sie bietet uns die Möglichkeit zwischen Fachgruppen zu vermitteln und Wissen Zielgruppen-gerecht sowie verständlich zu kommunizieren. Klingt trocken? Nicht in diesem Workshop: Gemeinsam wollen wir spielerisch unsere Kogni-Vermittlerrollen reflektieren und Erfahrungen austauschen. Keine Vorkenntnisse nötig.</td>
+    </tr>
+    <tr>
+      <td>Tanzchoreo lernen auf "Therefore I Am" (Billie Eilish)</td>
+      <td>Alsou</td>
+      <td></td>
+      <td>Lust zu tanzen? In diesem Workshop lernen wir gemeinsam eine Choreo zu einem Lied. Es ist absolut keine Tanzerfahrung oder Talent nötig. Wir üben alles ganz langsam und es gibt immer die Möglichkeit, Bewegungen zu vereinfachen. Der Stil lässt sich am ehesten als Jazz Dance (nicht Jazz Musik) oder Modern bezeichnen. Macht einfach mit und probierts aus!</td>
+    </tr>
+    <tr>
+      <td>PowerPoint-Karaoke</td>
+      <td>Jan</td>
+      <td></td>
+      <td>Wir machen Powerpoint Karaoke zum Spaß. Das heißt, wir stellen potentiell lustige Slides vor, die wir nicht kennen. Wer will kann sich im Präsentieren üben. Voraussetzung gibt es keine.</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## Ablauf
 <table class="table table-bordered">
   <thead>
@@ -144,10 +190,11 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
     <tr>
       <td class="time-col" rowspan="2">18:00–19:00</td>
       <td class="schedule-food" rowspan="4">Abendessen</td>
-      <td class="schedule-food" rowspan="4">Abendessen</td>
+      <td class="schedule-participants" rowspan="1">Gruppenfoto</td>
       <td class="empty"></td>
     </tr>
     <tr>
+      <td class="schedule-food" rowspan="3">Abendessen</td>
       <td class="empty"></td>
     </tr>
     <!-- 19:00 -->
