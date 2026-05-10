@@ -3,7 +3,7 @@ layout: page
 permalink: /neuron/
 title: GHK
 description: flag{pK_pNa_pCl}
-nav: true
+nav: false
 ---
 ## Neuron simulation
 
