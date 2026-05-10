@@ -20,7 +20,7 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
 - Prof. Dr. Esther Kühn ([Hertie Institut für klinische Hirnforschung](https://www.hih-tuebingen.de/en/research/independent-research-groups/kuehn-lab))
 - Prof. Dr. Evelyn Ferstl ([Uni Freiburg](https://uni-freiburg.de/cognition/evelyn-ferstl/))
 - Prof. Dr. Sven Mayer ([TU Dortmund](https://haii.cs.tu-dortmund.de/team/sven-mayer/))
-- Prof. Dr. Volker Franz ([Universität Tübingen](https://www.ecogsci.cs.uni-tuebingen.de/team/volker-franz/))
+- Prof. Dr. Volker Franz ([Uni Tübingen](https://www.ecogsci.cs.uni-tuebingen.de/team/volker-franz/))
 
 ### Berufsperspektiven
 - Niklas Dillen (Chief Quereinsteiger für berufliche Selbstverwirklichung bei Cognikey (im Aufbau))
@@ -70,7 +70,7 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
       <td class="time-col" rowspan="2">11:00–12:00</td>
       <td class="empty"></td>
       <td class="schedule-workshop" rowspan="5">Berufsperspektiven</td>
-      <td class="schedule-hackathon" rowspan="2">Hackathon-Ergebnisse</td>
+      <td class="schedule-hackathon" rowspan="2">Hackathon-/Workshop-Ergebnisse</td>
     </tr>
     <tr>
       <td class="empty"></td>
@@ -126,7 +126,7 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
       <td class="empty"></td>
     </tr>
     <tr>
-      <td class="empty"></td>
+      <td class="schedule-participants" rowspan="1">Empfang</td>
       <td class="empty"></td>
     </tr>
     <!-- 17:00 -->
@@ -144,7 +144,7 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
     <tr>
       <td class="time-col" rowspan="2">18:00–19:00</td>
       <td class="schedule-food" rowspan="4">Abendessen</td>
-      <td class="schedule-hackathon" rowspan="2">Hackathon</td>
+      <td class="schedule-food" rowspan="4">Abendessen</td>
       <td class="empty"></td>
     </tr>
     <tr>
@@ -153,7 +153,7 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
     <!-- 19:00 -->
     <tr>
       <td class="time-col" rowspan="2">19:00–20:00</td>
-      <td class="schedule-break" rowspan="1">Pause</td>
+      <td class="empty"></td>
       <td class="empty"></td>
     </tr>
     <tr>
@@ -164,7 +164,7 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
     <tr>
       <td class="time-col" rowspan="2">20:00–21:00</td>
       <td class="schedule-evening" rowspan="6">Spieleabend</td>
-      <td class="empty"></td>
+      <td class="schedule-hackathon" rowspan="2">Hackathon</td>
     </tr>
     <tr>
       <td class="empty"></td>
