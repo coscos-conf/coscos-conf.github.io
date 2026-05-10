@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/awareness/";
           },
-        },{id: "nav-ghk",
-          title: "GHK",
-          description: "flag{pK_pNa_pCl}",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/neuron/";
-          },
         },{id: "nav-team",
           title: "Team",
           description: "",
