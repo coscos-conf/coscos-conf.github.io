@@ -13,22 +13,22 @@ nav: false
   <p>Enter ion concentrations (in mM):</p>
 
   <label> [K+]<sub>out</sub> </label>
-  <input id="k_out" type="number" step="0.1" value="5"><br><br>
+  <input id="k_out" type="number" step="0.1" value="1"><br><br>
 
   <label> [K+]<sub>in</sub> </label>
-  <input id="k_in" type="number" step="0.1" value="140"><br><br>
+  <input id="k_in" type="number" step="0.1" value="1"><br><br>
 
   <label> [Na+]<sub>out</sub> </label>
-  <input id="na_out" type="number" step="0.1" value="145"><br><br>
+  <input id="na_out" type="number" step="0.1" value="1"><br><br>
 
   <label> [Na+]<sub>in</sub> </label>
-  <input id="na_in" type="number" step="0.1" value="12"><br><br>
+  <input id="na_in" type="number" step="0.1" value="1"><br><br>
 
   <label> [Cl–]<sub>out</sub> </label>
-  <input id="cl_out" type="number" step="0.1" value="110"><br><br>
+  <input id="cl_out" type="number" step="0.1" value="1"><br><br>
 
   <label> [Cl–]<sub>in</sub> </label>
-  <input id="cl_in" type="number" step="0.1" value="4"><br><br>
+  <input id="cl_in" type="number" step="0.1" value="1"><br><br>
 
   <button onclick="computeVoltage()" style="padding:6px 12px;">Submit</button>
 
