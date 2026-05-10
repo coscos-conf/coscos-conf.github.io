@@ -157,7 +157,7 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
       <td class="empty"></td>
     </tr>
     <tr>
-      <td class="schedule-food" rowspan="3">Abendessen</td>
+      <td class="empty"></td>
       <td class="empty"></td>
     </tr>
     <!-- 20:00 -->
