@@ -73,6 +73,12 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
       <td></td>
       <td>Wir machen Powerpoint Karaoke zum Spaß. Das heißt, wir stellen potentiell lustige Slides vor, die wir nicht kennen. Wer will kann sich im Präsentieren üben. Voraussetzung gibt es keine.</td>
     </tr>
+    <tr>
+      <td>Colour Hunting</td>
+      <td>Nico</td>
+      <td></td>
+      <td>Frische Luft gefällig? In kleinen Gruppen machen wir uns auf die Suche nach einer bestimmten Farbe und entdecken Tübingen dabei mit neuen Augen. Ob rote Ziegel, blaue Türen oder gelbes Absperrband: Was sonst im Stadtbild verschwindet, sticht plötzlich überall hervor. Unterwegs lernen wir nicht nur die Stadt und einander besser kennen, sondern schärfen auch das Auge für Komposition und Licht. Am Ende stellen wir die besten Aufnahmen zu einer Collage zusammen – eine kleine Ausstellung als gemeinsames Ergebnis und Andenken an die coscos (digital/ Ausdruck für 50 ct). Keine Vorkenntnisse nötig; mitgebracht werden muss nur ein Smartphone oder eine Digitalkamera (optional Laptop zum Bearbeiten).</td>
+    </tr>
   </tbody>
 </table>
 
@@ -93,12 +99,13 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
     <tr>
       <td class="time-col" rowspan="2">9:00–10:00</td>
       <td class="empty"></td>
-      <td class="schedule-participants" rowspan="2">Kennenlernen</td>
+      <td class="schedule-participants" rowspan="1">Kennenlernen</td>
       <td class="schedule-talk" rowspan="4">Talk</td>
       <td class="empty"></td>
     </tr>
     <tr>
       <td class="empty"></td>
+      <td class="schedule-workshop" rowspan="1">Vorstellung Workshops</td>
       <td class="empty"></td>
     </tr>
     <!-- 10:00 -->
@@ -183,7 +190,7 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
       <td class="empty"></td>
     </tr>
     <tr>
-      <td class="schedule-evening" rowspan="10">Stadtralley & Abendessen</td>
+      <td class="schedule-evening" rowspan="10">Stadtrallye & Abendessen</td>
       <td class="empty"></td>
     </tr>
     <!-- 18:00 -->
