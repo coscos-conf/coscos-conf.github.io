@@ -50,10 +50,12 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
       <td>Für alle, keine Vorkenntnisse nötig. Gelernt werden paar leichte Tricks.</td>
     </tr>
     <tr>
-      <td>Attention Economy: Autonomie in der digitalen Welt</td>
+      <td>Attention Economy - are you tired of scrolling? </td>
       <td>Tobi</td>
       <td></td>
-      <td>Wir leben in einer Aufmerksamkeitsökonomie, in der digitale Schnittstellen gezielt kognitive Schwachstellen ausnutzen, um uns an Bildschirme zu binden. Dieser Workshop beleuchtet die Mechanismen hinter der „gestohlenen Aufmerksamkeit“ und analysiert, wie diese unsere mentale Gesundheit und soziale Bindungen beeinflussen. Statt auf reinen Verzicht setzen wir auf „menschenzentrierte Gestaltung“ und praktische Tools, um vom passiven Konsumenten zum souveränen Gestalter der eigenen digitalen Umgebung zu werden. Der Workshop bietet eine interdisziplinäre Perspektive für alle, die Technologie nutzen wollen, ohne von Algorithmen untergraben zu werden.</td>
+      <td>Wie oft hast du heute schon nach deinem Handy gegriffen, nur um kurz etwas zu checken und bist dann doch woanders hängengeblieben? Wo ziehst du die Grenze zwischen einer bewussten Entscheidung und einer systematisch ausgelösten Reaktion? Wie oft hinterfragst du das Design deiner digitalen Begleiter? Was hat das Ganze mit deiner Aufmerksamkeit zu tun – und wie viel ist sie (dir) eigentlich wert?
+
+Es geht darum einen Ort für ehrlichen Austausch über unseren digitalen Alltag zu schaffen. Wir teilen Probleme, reflektieren unsere Erfahrungen und entdecken neue Sichtweisen. Bring etwas zum Schreiben und deine Neugier mit.</td>
     </tr>
     <tr>
       <td>Wissen verständlich kommunizieren: Warum Interdisziplinarität eine Kogni-Stärke ist</td>
