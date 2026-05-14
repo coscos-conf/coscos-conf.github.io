@@ -79,6 +79,13 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
       <td></td>
       <td>Frische Luft gefällig? In kleinen Gruppen machen wir uns auf die Suche nach einer bestimmten Farbe und entdecken Tübingen dabei mit neuen Augen. Ob rote Ziegel, blaue Türen oder gelbes Absperrband: Was sonst im Stadtbild verschwindet, sticht plötzlich überall hervor. Unterwegs lernen wir nicht nur die Stadt und einander besser kennen, sondern schärfen auch das Auge für Komposition und Licht. Am Ende stellen wir die besten Aufnahmen zu einer Collage zusammen – eine kleine Ausstellung als gemeinsames Ergebnis und Andenken an die coscos (digital/ Ausdruck für 50 ct). Keine Vorkenntnisse nötig; mitgebracht werden muss nur ein Smartphone oder eine Digitalkamera (optional Laptop zum Bearbeiten).</td>
     </tr>
+     <tr>
+      <td>Einstieg West Coast Swing</td>
+      <td>Marion</td>
+      <td></td>
+      <td>Lust auf Tanzen, gute Musik und jede Menge Spaß?
+In dem West Coast Swing Workshop brauchst du keine Vorkenntnisse sondern Spaß am Tanzen. West Coast Swing ist ein lockerer, moderner Paartanz mit coolen Bewegungen. Gemeinsam lernen wir die ersten Grundschritte und einfache Figuren in entspannter Atmosphäre. Im Mittelpunkt stehen Freude am Tanzen, Musik und Bewegung.</td>
+    </tr>    
   </tbody>
 </table>
 
