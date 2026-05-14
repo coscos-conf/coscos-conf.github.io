@@ -86,6 +86,12 @@ Im Gegensatz zu anderen Konferenzen liegt unser Fokus auf der Vernetzung, doch a
       <td>Lust auf Tanzen, gute Musik und jede Menge Spaß?
 In dem West Coast Swing Workshop brauchst du keine Vorkenntnisse sondern Spaß am Tanzen. West Coast Swing ist ein lockerer, moderner Paartanz mit coolen Bewegungen. Gemeinsam lernen wir die ersten Grundschritte und einfache Figuren in entspannter Atmosphäre. Im Mittelpunkt stehen Freude am Tanzen, Musik und Bewegung.</td>
     </tr>    
+     <tr>
+      <td>Secret Hitler</td>
+      <td>Jakob</td>
+      <td></td>
+      <td>"Secret Hitler" ist ein social-deduction Spiel ähnlich zu Werewolf. Wer von Hinweisen wie "Bei dir hat es in Nacht geraschelt" aus Werewolf genervt ist wird bei diesem Spiel nicht enttäuscht, da Hinweise ein wenig mehr Fakten basiert ist.</td>
+    </tr> 
   </tbody>
 </table>
 
