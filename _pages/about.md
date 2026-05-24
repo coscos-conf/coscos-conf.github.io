@@ -35,12 +35,9 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 ## coscos 2026 in Tübingen
-Die Anmeldung für die diesjährige Konferenz ist bereits geschlossen!
+Vielen Dnak für die coscos 2026 in Tübingen - wir freuen uns auf die nächste Konferenz :)
 
 Bei Fragen wendet euch gerne an coscos-conference@proton.me
-Und schaut euch schonmal unser wundervolles Programm an :)
-
-[Hier gehts zum Prgramm](program)
 
 
 

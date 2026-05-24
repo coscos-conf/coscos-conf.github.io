@@ -1,0 +1,30 @@
+---
+layout: page
+permalink: /2026/
+title: Anmeldung für coscos 2026
+description: 
+nav: false
+nav_order: 2
+---
+
+Die coscos 2026 findet vom 14.-17. Mai in der wunderschönen Universitätsstadt Tübingen statt.
+
+Die Cognitive Science Conference of Students ist eine gebührenfreie Konferenz für Studis von Studis und soll für alle ab dem ersten Bachelorsemester verständlich sein. 
+Egal in welchem Abschnitt eures Studiums ihr euch befindet, ihr seid herzlich willkommen!
+
+Falls ihr eine Übernachtungsmöglichkeit in Tübingen benötigt, gebt Bescheid, dann versuchen wir euch einen Schlafplatz zu organisieren. Gebt dies einfach bei der Anmeldung an.
+An die Tübinger Studis: Bitte gebt gerne an, wie viele Leute ihr aufnehmen könntet :)
+
+<!-- Anmelden könnt ihr euch über dieses Formular: [Hier](https://www.fs-kogni.uni-tuebingen.de/cloud/apps/forms/s/KGoKTXBKt7tQAYeQCAKHXpkk) <br>
+([https://www.fs-kogni.uni-tuebingen.de/cloud/apps/forms/s/KGoKTXBKt7tQAYeQCAKHXpkk](https://www.fs-kogni.uni-tuebingen.de/cloud/apps/forms/s/KGoKTXBKt7tQAYeQCAKHXpkk))
+
+
+## Schlafplätze
+
+Falls ihr eine Übernachtungsmöglichkeit in Tübingen benötigt oder eine anbieten könnt, füllt bitte die entsprechende Umfrage aus:
+
+Ich biete einen Schlafplatz an: [Klicke Hier](https://www.fs-kogni.uni-tuebingen.de/cloud/apps/forms/s/CAr7cXDeHpiJjg8YHFkgGq5K)<br>
+Ich brauche einen Schlafplatz: [Klicke Hier](https://www.fs-kogni.uni-tuebingen.de/cloud/apps/forms/s/yRe6MLXPG9S8XZbJLHNnHpAC) -->
+
+
+Wir freuen uns auf euch :)
