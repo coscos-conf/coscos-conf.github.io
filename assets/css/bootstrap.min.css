@@ -2032,3 +2032,35 @@ a.close.disabled {
         border-color: #dee2e6
     }
 }
+
+.schedule-talk {
+    background-color: #4285f4 !important
+}
+
+.schedule-participants {
+    background-color: #e39803 !important
+}
+
+.schedule-workshop {
+    background-color: #ff3547 !important
+}
+
+.schedule-hackathon {
+    background-color: #33b5e5 !important
+}
+
+.schedule-evening {
+    background-color: #00c851 !important
+}
+
+.schedule-break {
+    background-color: #91949c !important
+}
+
+.schedule-food {
+    background-color: #840063 !important
+}
+
+.schedule-discussion {
+    background-color: #00799e !important
+}
