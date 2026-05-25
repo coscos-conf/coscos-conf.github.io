@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /2026/
+permalink: /registration/
 title: Anmeldung für coscos 2026
 description: 
 nav: false

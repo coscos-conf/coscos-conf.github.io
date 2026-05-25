@@ -3,7 +3,7 @@ layout: page
 permalink: /venue/
 title: Veranstaltungsort
 description: Hier findest du Infos zu den Räumlichkeiten
-nav: true
+nav: false
 nav_order: 2
 ---
 
