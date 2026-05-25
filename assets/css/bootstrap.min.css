@@ -490,9 +490,7 @@ pre code {
 }
 
 .col,
-.col-6,
 .col-auto,
-.col-md-4,
 .col-sm {
     position: relative;
     width: 100%;
@@ -515,12 +513,6 @@ pre code {
     max-width: 100%
 }
 
-.col-6 {
-    -ms-flex: 0 0 50%;
-    flex: 0 0 50%;
-    max-width: 50%
-}
-
 @media (min-width:576px) {
     .col-sm {
         -ms-flex-preferred-size: 0;
@@ -528,15 +520,6 @@ pre code {
         -ms-flex-positive: 1;
         flex-grow: 1;
         max-width: 100%
-    }
-}
-
-@media (min-width:768px) {
-
-    .col-md-4 {
-        -ms-flex: 0 0 33.333333%;
-        flex: 0 0 33.333333%;
-        max-width: 33.333333%
     }
 }
 
@@ -1842,11 +1825,6 @@ a.close.disabled {
     flex-wrap: nowrap !important
 }
 
-.justify-content-center {
-    -ms-flex-pack: center !important;
-    justify-content: center !important
-}
-
 .position-static {
     position: static !important
 }
@@ -1929,10 +1907,6 @@ a.close.disabled {
 
 .text-right {
     text-align: right !important
-}
-
-.text-center {
-    text-align: center !important
 }
 
 .font-weight-lighter {
@@ -2031,36 +2005,4 @@ a.close.disabled {
     .table-dark thead th {
         border-color: #dee2e6
     }
-}
-
-.schedule-talk {
-    background-color: #4285f4 !important
-}
-
-.schedule-participants {
-    background-color: #e39803 !important
-}
-
-.schedule-workshop {
-    background-color: #ff3547 !important
-}
-
-.schedule-hackathon {
-    background-color: #33b5e5 !important
-}
-
-.schedule-evening {
-    background-color: #00c851 !important
-}
-
-.schedule-break {
-    background-color: #91949c !important
-}
-
-.schedule-food {
-    background-color: #840063 !important
-}
-
-.schedule-discussion {
-    background-color: #00799e !important
 }

@@ -23,20 +23,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/organisers/";
           },
-        },{id: "nav-anmeldung-für-coscos-2026",
-          title: "Anmeldung für coscos 2026",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/2026/";
-          },
-        },{id: "nav-programm",
-          title: "Programm",
-          description: "Hier findest du eine Übersicht über unser Programm",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/program/";
-          },
         },{id: "nav-veranstaltungsort",
           title: "Veranstaltungsort",
           description: "Hier findest du Infos zu den Räumlichkeiten",
@@ -50,6 +36,13 @@ ninja.data = [{
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/2025/";
+              },
+            },{id: "dropdown-coscos-2026",
+              title: "coscos 2026",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/2026/";
               },
             },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
         
